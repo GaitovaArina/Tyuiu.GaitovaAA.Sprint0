@@ -16,7 +16,6 @@ namespace Tyuiu.GaitovaAA.Sprint0.Task2.V0
             //из библиотеки Tyuiu.GaitovaAA.Sprint0.Task2.V0.Lib
             Console.WriteLine(DataService.GetMessage("Арина"));
             Console.ReadKey();
-            Console.ReadKey();
         }
     }
 }
